@@ -10,7 +10,7 @@ Participate in an Issues thread or start your own to have your voice heard.
 
 #### Write
 
-Fork the Repository then Contribute your expertise in an area by helping The organisation expand the included content,Fix typos, clarify language, and generally improve the quality of the content.Fix issues or contribute new features.Help keep content easy to read with consistent formatting
+Fork the Repository you want to contribute to  then Contribute your expertise in an area by helping The organisation expand the included content,Fix typos, clarify language, and generally improve the quality of the content.Fix issues or contribute new features.Help keep content easy to read with consistent formatting
 
 #### Outline sections 
 Help The Organisation to ensure that this repository is comprehensive. if there is a topic that is overlooked, please add it, Even if it is just a stub in the form of a header and single sentence. Initially, most things fall into this category.
