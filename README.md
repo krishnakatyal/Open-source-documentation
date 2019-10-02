@@ -18,6 +18,6 @@ Help The Organisation to ensure that this repository is comprehensive. if there 
 ### Create a Pull Request
 Create a Pull Request after commiting your work, If the Member of the organoisation accept it they’ll merge in the changes into the repository. If not they may ask you to change the wording  after having a discussion in the comments on the pull request. Or they may not merge the Pull request(which is completely fine as this experiance will help you next time)
 
-So one can contribute to projects without the need to even code..
+So one can contribute to projects without the need to even code.
 
 
