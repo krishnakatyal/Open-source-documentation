@@ -1,6 +1,6 @@
 # Open-Source-Documentation
 
-### Look for and read the CONTRIBUTING file
+### Look for  then read the CONTRIBUTING file
 
 Open source projects have a CONTRIBUTING section or look out the issues taged with "Documentation"
 
