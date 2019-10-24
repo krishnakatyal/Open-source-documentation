@@ -6,7 +6,7 @@ Open source projects have a CONTRIBUTING section or look out the issues taged wi
 
 #### Ideas
 
-Participate in an Issues thread or start your own to have your voice heard
+Participate in an Issues thread or start your own to have your voice heard.
 
 #### Write
 
